@@ -9,6 +9,8 @@ LIO-SAM-6AXIS with visual loop detection
 
 ![image-20220725204001534](README/image-20220725204001534.png)
 
+![image-20220725222527544](README/image-20220725222527544.png)
+
 ## garden night
 
 ![image-20220725205049056](README/image-20220725205049056.png)
