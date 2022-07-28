@@ -3,7 +3,7 @@ LIO-SAM-6AXIS with visual loop detection
 
 - green line segments represent for RGB images loop detection by DBOW3
 
-
+![garden_night-2x8](README/garden_night-2x8.gif)
 
 ### garden day
 
